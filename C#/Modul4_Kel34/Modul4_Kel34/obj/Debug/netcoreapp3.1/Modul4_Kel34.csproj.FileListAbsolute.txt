@@ -1,0 +1,13 @@
+D:\Modul4_Kelompok34\C#\Modul4_Kel34\Modul4_Kel34\obj\Debug\netcoreapp3.1\Modul4_Kel34.csprojAssemblyReference.cache
+D:\Modul4_Kelompok34\C#\Modul4_Kel34\Modul4_Kel34\obj\Debug\netcoreapp3.1\Modul4_Kel34.csproj.CoreCompileInputs.cache
+D:\Modul4_Kelompok34\C#\Modul4_Kel34\Modul4_Kel34\obj\Debug\netcoreapp3.1\Modul4_Kel34.AssemblyInfoInputs.cache
+D:\Modul4_Kelompok34\C#\Modul4_Kel34\Modul4_Kel34\obj\Debug\netcoreapp3.1\Modul4_Kel34.AssemblyInfo.cs
+D:\Modul4_Kelompok34\C#\Modul4_Kel34\Modul4_Kel34\bin\Debug\netcoreapp3.1\Modul4_Kel34.exe
+D:\Modul4_Kelompok34\C#\Modul4_Kel34\Modul4_Kel34\bin\Debug\netcoreapp3.1\Modul4_Kel34.deps.json
+D:\Modul4_Kelompok34\C#\Modul4_Kel34\Modul4_Kel34\bin\Debug\netcoreapp3.1\Modul4_Kel34.runtimeconfig.json
+D:\Modul4_Kelompok34\C#\Modul4_Kel34\Modul4_Kel34\bin\Debug\netcoreapp3.1\Modul4_Kel34.runtimeconfig.dev.json
+D:\Modul4_Kelompok34\C#\Modul4_Kel34\Modul4_Kel34\bin\Debug\netcoreapp3.1\Modul4_Kel34.dll
+D:\Modul4_Kelompok34\C#\Modul4_Kel34\Modul4_Kel34\bin\Debug\netcoreapp3.1\Modul4_Kel34.pdb
+D:\Modul4_Kelompok34\C#\Modul4_Kel34\Modul4_Kel34\obj\Debug\netcoreapp3.1\Modul4_Kel34.dll
+D:\Modul4_Kelompok34\C#\Modul4_Kel34\Modul4_Kel34\obj\Debug\netcoreapp3.1\Modul4_Kel34.pdb
+D:\Modul4_Kelompok34\C#\Modul4_Kel34\Modul4_Kel34\obj\Debug\netcoreapp3.1\Modul4_Kel34.genruntimeconfig.cache

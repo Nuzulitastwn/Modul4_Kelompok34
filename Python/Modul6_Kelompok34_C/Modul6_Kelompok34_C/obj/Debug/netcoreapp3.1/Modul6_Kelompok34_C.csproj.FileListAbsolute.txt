@@ -1,0 +1,13 @@
+D:\Modul4_Kelompok34\Python\Modul6_Kelompok34_C\Modul6_Kelompok34_C\obj\Debug\netcoreapp3.1\Modul6_Kelompok34_C.csprojAssemblyReference.cache
+D:\Modul4_Kelompok34\Python\Modul6_Kelompok34_C\Modul6_Kelompok34_C\obj\Debug\netcoreapp3.1\Modul6_Kelompok34_C.csproj.CoreCompileInputs.cache
+D:\Modul4_Kelompok34\Python\Modul6_Kelompok34_C\Modul6_Kelompok34_C\obj\Debug\netcoreapp3.1\Modul6_Kelompok34_C.AssemblyInfoInputs.cache
+D:\Modul4_Kelompok34\Python\Modul6_Kelompok34_C\Modul6_Kelompok34_C\obj\Debug\netcoreapp3.1\Modul6_Kelompok34_C.AssemblyInfo.cs
+D:\Modul4_Kelompok34\Python\Modul6_Kelompok34_C\Modul6_Kelompok34_C\bin\Debug\netcoreapp3.1\Modul6_Kelompok34_C.exe
+D:\Modul4_Kelompok34\Python\Modul6_Kelompok34_C\Modul6_Kelompok34_C\bin\Debug\netcoreapp3.1\Modul6_Kelompok34_C.deps.json
+D:\Modul4_Kelompok34\Python\Modul6_Kelompok34_C\Modul6_Kelompok34_C\bin\Debug\netcoreapp3.1\Modul6_Kelompok34_C.runtimeconfig.json
+D:\Modul4_Kelompok34\Python\Modul6_Kelompok34_C\Modul6_Kelompok34_C\bin\Debug\netcoreapp3.1\Modul6_Kelompok34_C.runtimeconfig.dev.json
+D:\Modul4_Kelompok34\Python\Modul6_Kelompok34_C\Modul6_Kelompok34_C\bin\Debug\netcoreapp3.1\Modul6_Kelompok34_C.dll
+D:\Modul4_Kelompok34\Python\Modul6_Kelompok34_C\Modul6_Kelompok34_C\bin\Debug\netcoreapp3.1\Modul6_Kelompok34_C.pdb
+D:\Modul4_Kelompok34\Python\Modul6_Kelompok34_C\Modul6_Kelompok34_C\obj\Debug\netcoreapp3.1\Modul6_Kelompok34_C.dll
+D:\Modul4_Kelompok34\Python\Modul6_Kelompok34_C\Modul6_Kelompok34_C\obj\Debug\netcoreapp3.1\Modul6_Kelompok34_C.pdb
+D:\Modul4_Kelompok34\Python\Modul6_Kelompok34_C\Modul6_Kelompok34_C\obj\Debug\netcoreapp3.1\Modul6_Kelompok34_C.genruntimeconfig.cache
